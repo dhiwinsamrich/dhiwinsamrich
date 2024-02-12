@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="450" width="1500" src="images/Anything worth having takes time. (1).png"  />
+  <img height="350" width="1500" src="images/Anything worth having takes time. (1).png"  />
 </div>
 
 ###
