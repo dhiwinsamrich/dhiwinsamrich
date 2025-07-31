@@ -18,7 +18,20 @@
 
 ###
 
-<p align="left">🚀🧠 I am Dhiwin Samrich: Innovator Extraordinaire in AI & ML 🌟<br><br>Hey there! 👋 Ready to dive into the realm of cutting-edge technology and innovation? itz me Dhiwin Samrich J – a visionary software engineer with a flair for creativity and a passion for AI and ML! 🌟<br><br>🎨 Creative Thinker: My mind is a melting pot of ideas, constantly brewing innovative solutions to complex problems. <br>From brainstorming sessions to implementation, creativity flows in every line of code! 💡<br><br>🔍 Analytical Acumen: Armed with a keen eye for detail and a knack for dissecting data, I tackle challenges with surgical precision. Analyzing patterns, predicting trends –! 📊<br><br>🌟 Goal: My mission? To revolutionize the tech world with groundbreaking AI solutions! From optimizing processes to enhancing user experiences, every project is a step closer to technological nirvana. 🌈<br><br>🚀 Opportunity Seeker: On the lookout for a platform to unleash his talents, I am ready to tackle any challenge head-on. Whether it's designing neural networks or fine-tuning algorithms, he's game for it all! 💪<br><br>🌌 Impact Driver: With a heart set on making a difference, I aim to leave an indelible mark on the landscape of AI and ML. From startups to conglomerates, his contributions promise to shape the future of AI engineering! 🚀</p>
+<p align="left">I am Dhiwin Samrich, an AI/ML Engineer who moves like the KNIGHT on a chessboard unpredictable, deliberate, a real game changer and always one step ahead of where you expect me to be.
+
+Most people glance at a chessboard and see obstacles. I see angles. Paths that don’t exist yet. Gaps waiting to be bridged by a clever leap. That’s how I build my code, train my models, and navigate my life: unconventional moves for uncommon results.
+
+"I Aspire to Inspire before I Expire."
+That’s not just a quote it’s my game plan. My mission is to create intelligent systems that don’t just automate tasks but expand what’s possible. Like a KNIGHT, I’m not interested in brute force; I’m interested in smart force—solutions that cut through barriers no one else notices.
+
+You’re here, reading this. Maybe you’re wondering what makes me different from the next AI engineer in your feed. Stay with me because I believe real intelligence isn’t just about algorithms; it’s about audacity. About stepping sideways when the world expects you to move straight ahead.
+
+I’ve learned that failure is just another square on the board. Each time I fall, I rise—sharper, wiser, ready for #One_Last_Run. Because sometimes the final move changes the entire game.
+
+When I’m not pushing neural nets to do the unthinkable, you’ll find me studying new chess openings, sketching out my next impossible idea, or designing ways to make machines see the world like we do—and maybe better.
+
+So here we are: you, me, this game of ideas. I’m still moving. And if you’re curious enough to see where the next move leads stay tuned.</p>
 
 ###
 
