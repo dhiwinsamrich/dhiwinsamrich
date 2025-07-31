@@ -4,16 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/dhiwinsamrich/count.svg?"  />
-</div>
-
-###
-
-<h1 align="center">-----------------------------------------------------------------</h1>
-
-###
-
 <h3 align="center">👩‍💻  About Me</h3>
 
 ###
