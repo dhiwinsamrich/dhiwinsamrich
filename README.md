@@ -99,25 +99,35 @@ So here we are curious, moving, and ready for the next move. Stay tuned.</p>
   <img width="12" />
 </div>
 
-###
+<br>
+
+<div align="center">
+
+  <h3>Top Projects</h3>
+
+[![PRODIGY_ML_01](https://github-readme-stats.vercel.app/api/pin/?username=dhiwinsamrich&repo=PRODIGY_ML_01&theme=dark)](https://github.com/dhiwinsamrich/PRODIGY_ML_01)
+[![yolov8_blueprint_detector](https://github-readme-stats.vercel.app/api/pin/?username=dhiwinsamrich&repo=yolov8_blueprint_detector&theme=dark)](https://github.com/dhiwinsamrich/yolov8_blueprint_detector)
+[![Chess_RL_Game](https://github-readme-stats.vercel.app/api/pin/?username=dhiwinsamrich&repo=Chess_RL_Game&theme=dark)](https://github.com/dhiwinsamrich/Chess_RL_Game)
+[![Hand_Sign_Recoginition_IoT](https://github-readme-stats.vercel.app/api/pin/?username=dhiwinsamrich&repo=Hand_Sign_Recoginition_IoT&theme=dark)](https://github.com/dhiwinsamrich/Hand_Sign_Recoginition_IoT)
+</div>
 
 <h4 align="center">🔥   My Stats</h4>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhiwinsamrich&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhiwinsamrich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
 <!--   <img src="https://streak-stats.demolab.com?user=dhiwinsamrich&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
-  <img src="https://github-profile-trophy.vercel.app?username=dhiwinsamrich&theme=kimbie_dark&column=5&no-frame=true&row=1&margin-w=2&margin-h=1&no-bg=true" height="150" alt="trophy graph"  />
+  <div align="center">
+  <img src="https://streak-stats.demolab.com?user=dhiwinsamrich&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> 
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiwinsamrich&theme=redical&radius=0&area=true&hide_title=true&hide_border=true" height="200" alt="activity-graph graph"  />
 </div>
 
-###
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/dhiwinsamrich/dhiwinsamrich/output/snake.svg" alt="Snake animation" />
-
-###
+</div>
 
 <div align="center">
   <a href="www.linkedin.com/in/dhiwin-samrich-69542128a" target="_blank">
@@ -126,10 +136,6 @@ So here we are curious, moving, and ready for the next move. Stay tuned.</p>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
 
-###
-
 <div align="center">
   <img height="250" src="https://static.tumblr.com/6a93ef90ab96ebf06f98c013af9c3c6c/wefneke/NMfnqlwf9/tumblr_static_9p5wobgqhvk0840gsoooww448_2048_v2.gif"  />
 </div>
-
-###
