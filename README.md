@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="450" width="2000" src="images/Anything worth having takes time. (1).png"  />
+  <
+img height="450" width="2000" src="images/Anything worth having takes time. (1).png"  />
 </div>
 
 ###
@@ -8,20 +9,15 @@
 
 ###
 
-<p align="left">I am Dhiwin Samrich, an AI/ML Engineer who moves like the KNIGHT on a chessboard unpredictable, deliberate, a real game changer and always one step ahead of where you expect me to be.
+<p align="left">I’m Dhiwin Samrich, an AI/ML Engineer who moves like the ♞KNIGHT on a chessboard deliberate, unpredictable, always thinking a few steps ahead. Where others see obstacles, I see angles and gaps waiting for a clever leap. That’s how I build code, train models, and navigate life: with unconventional moves for uncommon results.
 
-Most people glance at a chessboard and see obstacles. I see angles. Paths that don’t exist yet. Gaps waiting to be bridged by a clever leap. That’s how I build my code, train my models, and navigate my life: unconventional moves for uncommon results.
+My mission? To inspire before I expire by creating intelligent systems that don’t just automate but expand what’s possible. I’m not about brute force; I’m about smart force cutting through barriers others overlook.
 
-"I Aspire to Inspire before I Expire."
-That’s not just a quote it’s my game plan. My mission is to create intelligent systems that don’t just automate tasks but expand what’s possible. Like a KNIGHT, I’m not interested in brute force; I’m interested in smart force—solutions that cut through barriers no one else notices.
+If you’re wondering what sets me apart, it’s this: real intelligence means having the audacity to step sideways when everyone expects you to move straight ahead. I embrace failure as part of the game, learning, growing, and preparing for one last, game-changing move.
 
-You’re here, reading this. Maybe you’re wondering what makes me different from the next AI engineer in your feed. Stay with me because I believe real intelligence isn’t just about algorithms; it’s about audacity. About stepping sideways when the world expects you to move straight ahead.
+When I’m not pushing neural nets, you’ll find me exploring chess openings, sketching ideas, or imagining ways for machines to see the world maybe even better than we do.
 
-I’ve learned that failure is just another square on the board. Each time I fall, I rise—sharper, wiser, ready for #One_Last_Run. Because sometimes the final move changes the entire game.
-
-When I’m not pushing neural nets to do the unthinkable, you’ll find me studying new chess openings, sketching out my next impossible idea, or designing ways to make machines see the world like we do—and maybe better.
-
-So here we are: you, me, this game of ideas. I’m still moving. And if you’re curious enough to see where the next move leads stay tuned.</p>
+So here we are curious, moving, and ready for the next move. Stay tuned.</p>
 
 ###
 
