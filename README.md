@@ -21,7 +21,7 @@ So here we are curious, moving, and ready for the next move. Stay tuned.</p>
 
 ###
 
-<h4 align="center">🖥️Language - Mastered</h4>
+<h3 align="center">Language Familiar with ;</h3>
 
 ###
 
@@ -62,7 +62,7 @@ So here we are curious, moving, and ready for the next move. Stay tuned.</p>
 
 ###
 
-<h4 align="center">🛠 Tools - Expertised</h4>
+<h4 align="center">🛠 Tools -)</h4>
 
 ###
 
