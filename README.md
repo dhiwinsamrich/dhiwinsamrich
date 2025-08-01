@@ -108,7 +108,7 @@ So here we are curious, moving, and ready for the next move. Stay tuned.</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhiwinsamrich&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhiwinsamrich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=dhiwinsamrich&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+<!--   <img src="https://streak-stats.demolab.com?user=dhiwinsamrich&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
   <img src="https://github-profile-trophy.vercel.app?username=dhiwinsamrich&theme=kimbie_dark&column=5&no-frame=true&row=1&margin-w=2&margin-h=1&no-bg=true" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiwinsamrich&theme=redical&radius=0&area=true&hide_title=true&hide_border=true" height="200" alt="activity-graph graph"  />
 </div>
