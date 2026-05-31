@@ -1,141 +1,151 @@
 <div align="center">
-  
+
 <img height="450" width="2000" src="images/Anything worth having takes time. (1).png"  />
-</div>
 
 ###
 
-<h3 align="center">ME :)</h3>
+<br/>
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiwin-samrich-69542128a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=vercel&logoColor=white)](https://dhiwinsamrich-resume.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dhiwinsamrichj@gmail.com)
+![Visitors](https://komarev.com/ghpvc/?username=dhiwinsamrich&color=00d9ff&style=flat-square&label=visitors)
 
-<p align="left">I’m Dhiwin Samrich, an AI/ML Engineer who moves like the ♞KNIGHT on a chessboard deliberate, unpredictable, always thinking a few steps ahead. Where others see obstacles, I see angles and gaps waiting for a clever leap. That’s how I build code, train models, and navigate life: with unconventional moves for uncommon results.
-
-My mission? To inspire before I expire by creating intelligent systems that don’t just automate but expand what’s possible. I’m not about brute force; I’m about smart force cutting through barriers others overlook.
-
-If you’re wondering what sets me apart, it’s this: real intelligence means having the audacity to step sideways when everyone expects you to move straight ahead. I embrace failure as part of the game, learning, growing, and preparing for one last, game-changing move.
-
-When I’m not pushing neural nets, you’ll find me exploring chess openings, sketching ideas, or imagining ways for machines to see the world maybe even better than we do.
-
-So here we are curious, moving, and ready for the next move. Stay tuned.</p>
-
-###
-
-<h3 align="center">Language Familiar with ;</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" height="40" alt="threejs logo"  />
 </div>
 
-###
+### ♞ About Me
 
-<h4 align="center">🛠 Tools -)</h4>
+```python
+dhiwin = {
+    "role"       : "AI/ML Engineer @ White Mastery System",
+    "focus"      : ["LLMs", "RAG Pipelines", "Multi-Agent AI", "GenAI"],
+    "education"  : "MCA – AI & ML (CGPA: 9.55) | BCA (CGPA: 9.1)",
+    "location"   : "Chennai, India 🇮🇳",
+    "philosophy" : "Smart force > Brute force",
+    "chess_move" : "♞  Always thinking 3 moves ahead",
+    "mission"    : "Inspire before I expire"
+}
+```
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
-  <img width="12" />
-</div>
-
-<br>
+## 🛠️ Tech Stack
 
 <div align="center">
 
-  <h3>Top Projects</h3>
+### Core AI/ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-[![PRODIGY_ML_01](https://github-readme-stats.vercel.app/api/pin/?username=dhiwinsamrich&repo=PRODIGY_ML_01&theme=dark)](https://github.com/dhiwinsamrich/PRODIGY_ML_01)
-[![yolov8_blueprint_detector](https://github-readme-stats.vercel.app/api/pin/?username=dhiwinsamrich&repo=yolov8_blueprint_detector&theme=dark)](https://github.com/dhiwinsamrich/yolov8_blueprint_detector)
-[![Chess_RL_Game](https://github-readme-stats.vercel.app/api/pin/?username=dhiwinsamrich&repo=Chess_RL_Game&theme=dark)](https://github.com/dhiwinsamrich/Chess_RL_Game)
-[![Hand_Sign_Recoginition_IoT](https://github-readme-stats.vercel.app/api/pin/?username=dhiwinsamrich&repo=Hand_Sign_Recoginition_IoT&theme=dark)](https://github.com/dhiwinsamrich/Hand_Sign_Recoginition_IoT)
+### Backend & Infra
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Languages & More
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
-<h4 align="center">🔥   My Stats</h4>
+---
 
+- 🔭 Currently building **production clinical AI** platforms & **multi-agent SEO engines**
+- ⚡ Delivered: 40% workflow acceleration · 99.9% uptime · 42% latency reduction
+- 🏆 Dual Gold Medalist · Techno World Competition Winner
+- 🧠 Deep into: LangGraph, LoRA fine-tuning, RAG, GGUF/ONNX quantization
+- 📫 Reach me: **dhiwinsamrichj@gmail.com**
+
+---
+
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dhiwinsamrich/dhiwinsamrich/output/snake.svg" alt="contribution snake" width="100%"/>
+</div>
+
+## 🚀 What I Build
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🧠 AI / GenAI
+- Multi-Provider LLM routing with fault-tolerant failover
+- RAG pipelines (Chroma DB + LLMs)
+- Multi-agent architectures (LangGraph)
+- LLM fine-tuning with LoRA/PEFT + Unsloth
+- NLP classification for enterprise workflows
+- Conversational diagnostic AI engines
+
+</td>
+<td valign="top" width="50%">
+
+### ⚙️ Backend & MLOps
+- FastAPI production backends (OAuth 2.0, RBAC, AES-256)
+- Celery + Redis task queues with crash recovery
+- Docker microservices · Nginx load balancing
+- Google Cloud Platform (GCP, KMS, Keycloak)
+- Async PostgreSQL (SQLAlchemy 2.0 + Alembic)
+- n8n workflow automation
+
+</td>
+</tr>
+</table>
+
+## 🏗️ Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhiwinsamrich&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhiwinsamrich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
-<!--   <img src="https://streak-stats.demolab.com?user=dhiwinsamrich&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
-  <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dhiwinsamrich&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> 
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+| 🔒 AiDerm Cliniq | 📱 Social Media Automation |
+|:---:|:---:|
+| [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/dhiwinsamrich) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/dhiwinsamrich) [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://github.com/dhiwinsamrich) [![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://github.com/dhiwinsamrich) | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/dhiwinsamrich) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/dhiwinsamrich) [![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](https://github.com/dhiwinsamrich) [![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)](https://github.com/dhiwinsamrich) |
+| Multi-LLM failover · Zero-loss crash recovery · RBAC | 99.9% uptime · 85% ops reduction · 94% brand compliance |
+
+| 🎯 Enterprise Slides Generator | 🤖 Hand Sign IoT Glove |
+|:---:|:---:|
+| [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/dhiwinsamrich) [![Google](https://img.shields.io/badge/Google_APIs-4285F4?style=flat-square&logo=google&logoColor=white)](https://github.com/dhiwinsamrich) [![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)](https://github.com/dhiwinsamrich) | [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/dhiwinsamrich) [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://github.com/dhiwinsamrich) [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/dhiwinsamrich) [![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://github.com/dhiwinsamrich) |
+| 90% design time reduction · 20+ auto-aligned placeholders | 150ms latency · 95.7% accuracy · 3,000+ gesture samples |
+
 </div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiwinsamrich&theme=redical&radius=0&area=true&hide_title=true&hide_border=true" height="200" alt="activity-graph graph"  />
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhiwinsamrich&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dhiwinsamrich&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180"/>
+
+<img src="https://streak-stats.demolab.com?user=dhiwinsamrich&theme=radical&hide_border=true&border_radius=5&mode=daily&card_width=500" height="160"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhiwinsamrich&theme=radical" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiwinsamrich&theme=react-dark&radius=0&area=true&hide_title=true&hide_border=true" width="100%"/>
+
+</div>
+
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiwin-samrich)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhiwinsamrich-resume.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhiwinsamrich)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhiwinsamrichj@gmail.com)
+
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/dhiwinsamrich/dhiwinsamrich/output/snake.svg" alt="Snake animation" />
-</div>
 
-<div align="center">
-  <a href="www.linkedin.com/in/dhiwin-samrich-69542128a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=2000&color=555555&center=true&vCenter=true&width=600&lines=%22Real+intelligence+means+the+audacity+to+step+sideways...%22;%22...when+everyone+expects+you+to+move+straight+ahead.%22;%E2%99%9E+Always+thinking.+Always+building.+Always+moving.)](https://git.io/typing-svg)
 
-<div align="center">
-  <img height="250" src="https://static.tumblr.com/6a93ef90ab96ebf06f98c013af9c3c6c/wefneke/NMfnqlwf9/tumblr_static_9p5wobgqhvk0840gsoooww448_2048_v2.gif"  />
 </div>
