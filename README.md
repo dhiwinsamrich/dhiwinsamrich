@@ -23,7 +23,7 @@ dhiwin = {
     "location"   : "Chennai, India 🇮🇳",
     "philosophy" : "Smart force > Brute force",
     "chess_move" : "♞  Always thinking 3 moves ahead",
-    "mission"    : "Inspire before I expire"
+    "mission"    : "Inspire before Expire"
 }
 ```
 
